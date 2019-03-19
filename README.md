@@ -1,4 +1,4 @@
-# Ebuy
+# E-buyy
 E-Commmerce website for clothes.
 
 ## How to Run the project
